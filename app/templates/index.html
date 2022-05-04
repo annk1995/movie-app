@@ -1,0 +1,10 @@
+<h3> Popular Movie</h3>
+<ul>
+    {%for popular_movie in popular%}
+    <li>{{item_movie.title}}</li>
+    <p>{{item_movie.overview}}</p>
+
+    {% endfor %}
+
+
+</ul>
