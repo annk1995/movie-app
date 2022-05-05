@@ -2,7 +2,7 @@
 
 ## Author
 
-~ Paullete Adhiambo
+~ kabui kariuki
 ## Description
 
 A Flask framework { python } application that keeps up a user with currrent affairs incase one misses news .It provides varous news from techonology, politics, businness,sports among manny others. Also it provides various sources of nes from all over the world that one can choose and read from.This is achiaved by use of movie API
@@ -76,7 +76,7 @@ If you have any question or contributions, please email me at [paulettenereah3@g
 
 
 
-Portfolio- [Paullete](https://Paullete.github.io/my_portfolio/)
+
 # Licence
 
 Click to  [MIT License](Licence) view
